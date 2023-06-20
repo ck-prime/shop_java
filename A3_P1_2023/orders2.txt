@@ -1,0 +1,6 @@
+5
+Frodo_Baggins 0 1 2 0 1 2 10
+Mary_Popping 2 1 3 10 0 0 0
+Farhad_Osmen 0 0 0 0 10 0 10
+P_Mary_Popping 1 2 3 4 3 2 1
+V_ObiWan_Kenobi 10 10 0 0 0 0 0

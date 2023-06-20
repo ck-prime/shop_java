@@ -1,0 +1,7 @@
+Apple 12.7 20.5 50
+Banana 6.55 7.8 30
+Coke 1 1.5 100
+Donut 2 4 20
+Egg 1.15 3.3 50
+Fish 13.5 22.2 10
+Grapes 1.3 3.5 3
